@@ -75,4 +75,7 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # End of https://www.toptal.com/developers/gitignore/api/unity
-yo
+geometrydash.sln
+TextMesh Pro/
+Assets/_Recovery/
+.gitignore
